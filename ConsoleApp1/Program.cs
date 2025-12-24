@@ -6,6 +6,7 @@ Console.Write("Enter your Age: ");
 Console.ReadKey();
 Console.WriteLine("Hello");
 Console.WriteLine("Hi");
-Console.WriteLine("Hellooooo");
+Console.WriteLine("Hello");
 Console.WriteLine("Hi");
 Console.WriteLine("Hello");
+Console.WriteLine("Hai yorokonde");
